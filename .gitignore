@@ -1,0 +1,15 @@
+cachegrind*
+*.bk
+*orig
+tags
+perf*
+*folded
+*out
+*perf
+*svg
+*txt
+target
+Cargo.lock
+*swp
+*swo
+*.proptest-regressions
